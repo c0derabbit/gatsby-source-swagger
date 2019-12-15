@@ -1,0 +1,15 @@
+{
+  "name": "gatsby-source-swagger",
+  "version": "0.0.1",
+  "author": {
+    "email": "ekov@pm.me",
+    "url": "https://eszter.space"
+  },
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin",
+    "swagger"
+  ]
+}
